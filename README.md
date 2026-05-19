@@ -4,6 +4,14 @@ Real-time AI risk detection system using face recognition and emotion analysis.
 
 ---
 
+## Installation
+
+```bash
+git clone https://github.com/dleksal/PYEYE-AI-Risk-Detection.git
+cd PYEYE-AI-Risk-Detection
+pip install -r requirements.txt
+streamlit run app.py
+
 ## Overview
 
 PYEYE is an AI-based monitoring system that detects faces in real time and analyzes emotional states to estimate potential risk levels.
