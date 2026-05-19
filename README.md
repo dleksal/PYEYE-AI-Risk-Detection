@@ -158,6 +158,8 @@ PYEYE-AI-Risk-Detection
 ├── LICENSE             # MIT license
 └── .gitignore          # Git ignore rules
 
+---
+
 ## Demo Screenshots
 
 ### Fear Detection
