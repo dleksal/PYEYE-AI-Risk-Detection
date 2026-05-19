@@ -4,13 +4,6 @@ Real-time AI risk detection system using face recognition and emotion analysis.
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/dleksal/PYEYE-AI-Risk-Detection.git
-cd PYEYE-AI-Risk-Detection
-pip install -r requirements.txt
-streamlit run app.py
 
 ## Overview
 
@@ -43,6 +36,18 @@ This project was developed as a capstone design project using Raspberry Pi 4, Py
 - Raspberry Pi 4
 
 ---
+
+## Installation
+
+```bash
+git clone https://github.com/dleksal/PYEYE-AI-Risk-Detection.git
+cd PYEYE-AI-Risk-Detection
+pip install -r requirements.txt
+streamlit run app.py
+
+
+---
+
 
 ## System Architecture
 
