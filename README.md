@@ -55,6 +55,23 @@ PYEYE aims to overcome this limitation by detecting emotional signals and potent
 
 ---
 
+## Challenges & Solutions
+
+### Raspberry Pi performance limitation
+Running real-time face and emotion analysis on Raspberry Pi caused performance issues.
+
+**Solution:** Optimized the processing pipeline and tested lightweight execution methods.
+
+### Webcam connection issue
+The webcam was not always recognized correctly during real-time detection.
+
+**Solution:** Tested different camera inputs and adjusted camera index settings.
+
+### TensorFlow dependency issue
+DeepFace and TensorFlow dependencies caused compatibility problems.
+
+**Solution:** Adjusted package versions and tested the environment repeatedly.
+
 ## Future Improvements
 
 - Multi-camera support
