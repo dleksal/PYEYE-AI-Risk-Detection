@@ -67,3 +67,20 @@ PYEYE aims to overcome this limitation by detecting emotional signals and potent
 ## Author
 
 GitHub: dleksal
+
+## Demo Screenshots
+
+### Fear Detection
+![Fear](screenshots/fear-risk-demo.jpg.jpeg)
+
+### Sad Detection
+![Sad](screenshots/sad-risk-demo.jpg.jpeg)
+
+### Happy Detection
+![Happy](screenshots/happy-risk-demo.jpg.jpeg)
+
+### Dashboard UI
+![Dashboard](screenshots/dashboard-ui.jpg.jpeg)
+
+### Raspberry Pi Deployment
+![RaspberryPi](screenshots/unknown-risk.jpg.jpeg)
