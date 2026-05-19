@@ -44,7 +44,7 @@ git clone https://github.com/dleksal/PYEYE-AI-Risk-Detection.git
 cd PYEYE-AI-Risk-Detection
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 
 ---
 
