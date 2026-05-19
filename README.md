@@ -1,14 +1,11 @@
 # PYEYE AI Risk Detection System
 
-Real-time AI risk detection system using face recognition and emotion analysis.
-
----
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-IoT-critical)
 
+Real-time AI risk detection system using face recognition and emotion analysis.
 ## Overview
 
 PYEYE is an AI-based monitoring system that detects faces in real time and analyzes emotional states to estimate potential risk levels.
