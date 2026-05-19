@@ -51,13 +51,19 @@ streamlit run app.py
 
 ## System Architecture
 
-1. Camera Input  
-2. Face Detection  
-3. Emotion Analysis  
-4. Risk Scoring  
-5. Visualization & Alert  
-6. Data Logging
-
+```text
+Webcam Input
+      ↓
+Face Detection (MediaPipe/OpenCV)
+      ↓
+Emotion Analysis (DeepFace)
+      ↓
+Risk Score Calculation
+      ↓
+Streamlit Dashboard Visualization
+      ↓
+Event Logging
+```
 ---
 
 ## Project Goal
