@@ -49,6 +49,20 @@ streamlit run app.py
 
 ---
 
+## Demo App
+
+This repository includes a Streamlit demo application (`app.py`) that simulates the main workflow of the original PYEYE system.
+
+The demo app provides:
+
+- Emotion-based risk score calculation
+- Risk alert threshold control
+- Detection result dashboard
+- Event log preview
+- Demo screenshot visualization
+
+---
+
 ## System Architecture
 
 ```text
