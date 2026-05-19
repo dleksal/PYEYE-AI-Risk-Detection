@@ -146,6 +146,18 @@ The calculated score is visualized in real time through the Streamlit dashboard.
 
 GitHub: dleksal
 
+## Project Structure
+
+```text
+PYEYE-AI-Risk-Detection
+│
+├── screenshots/        # Demo images
+├── app.py              # Streamlit dashboard application
+├── requirements.txt    # Python dependencies
+├── README.md           # Project documentation
+├── LICENSE             # MIT license
+└── .gitignore          # Git ignore rules
+
 ## Demo Screenshots
 
 ### Fear Detection
