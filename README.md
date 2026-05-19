@@ -49,7 +49,6 @@ streamlit run app.py
 
 ---
 
-
 ## System Architecture
 
 1. Camera Input  
