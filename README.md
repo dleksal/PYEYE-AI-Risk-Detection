@@ -62,6 +62,16 @@ PYEYE aims to overcome this limitation by detecting emotional signals and potent
 - GPU acceleration
 - Cloud integration
 
+## How It Works
+
+1. Webcam captures real-time video input.
+2. Face detection identifies faces from the camera stream.
+3. Emotion analysis classifies the detected facial expression.
+4. Risk score is calculated based on emotion type.
+5. Streamlit dashboard visualizes emotion and risk level.
+6. Events can be logged for monitoring purposes.
+
+   
 ---
 
 ## Author
