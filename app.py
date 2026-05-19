@@ -9,14 +9,15 @@ st.set_page_config(
 )
 
 EMOTION_RISK = {
-    "Happy": 30,
+    "Happy": 10,
     "Neutral": 20,
     "Sad": 50,
     "Fear": 70,
-    "Angry": 65,
-    "Surprise": 45,
-    "Disgust": 60
+    "Angry": 80
 }
+
+def calculate_risk(emotion):
+    return EMOTION_RISK.get(emotion, 0)
 
 st.title("👁️ PYEYE AI Risk Detection System")
 st.caption("Real-time face recognition and emotion-based risk analysis dashboard")
