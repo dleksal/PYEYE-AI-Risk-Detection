@@ -4,6 +4,10 @@ Real-time AI risk detection system using face recognition and emotion analysis.
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-IoT-critical)
 
 ## Overview
 
