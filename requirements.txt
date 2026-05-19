@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+streamlit
+pandas
+numpy
+seaborn
+tensorflow
+deepface
+tf-keras
