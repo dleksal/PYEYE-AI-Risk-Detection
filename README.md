@@ -124,6 +124,24 @@ DeepFace and TensorFlow dependencies caused compatibility problems.
    
 ---
 
+## Risk Score Logic
+
+The system estimates risk levels based on detected emotions.
+
+Example scoring logic:
+
+- Angry → 80
+- Fear → 70
+- Sad → 50
+- Neutral → 20
+- Happy → 10
+
+Higher scores indicate potentially dangerous emotional states.
+
+The calculated score is visualized in real time through the Streamlit dashboard.
+
+---
+
 ## Author
 
 GitHub: dleksal
